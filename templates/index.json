@@ -44,8 +44,9 @@
         "button"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image": "shopify://shop_images/WhatsApp_Image_2025-12-26_at_5.33.12_PM.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
         "image_behavior": "none",
         "desktop_content_position": "bottom-center",
         "desktop_content_alignment": "center",
