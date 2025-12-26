@@ -12,13 +12,6 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Distribucion",
-            "heading_size": "h0"
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
@@ -39,7 +32,6 @@
         }
       },
       "block_order": [
-        "heading",
         "text",
         "button"
       ],
