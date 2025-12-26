@@ -110,30 +110,16 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
         "product": {
           "type": "product",
           "settings": {
             "product": "rl113",
             "second_image": false
           }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
+        "product"
       ],
       "settings": {
         "heading": "Multimedia collage",
